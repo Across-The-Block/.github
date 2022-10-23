@@ -1,5 +1,5 @@
 #  <img src="https://user-images.githubusercontent.com/61543012/197380170-288431bb-8a34-4ed5-b026-71eb1091569a.png" height="35" width="35" align-items="center" justify-content="center" /> Across The Block
-It is importatnt to query the blockchain for meaningful metrics on upcoming trends in the metaverse. Let us guide you using data analytics and market sentiment.
+Access your delivery information through private conversations across the blockchain. Only you and your delivery person know the details of your delivery. You can order food, rides and more all across the block-chain.
 
 ## Know when the next big thing in the metaverse is about to 3RUPT
 
