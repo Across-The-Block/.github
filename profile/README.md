@@ -3,12 +3,12 @@ Access your delivery information through private conversations across the blockc
 
 ## Know when the next big thing in the metaverse is about to 3RUPT
 
-😡 Frustrated? Can't seem to buy before the blast-off? 
+🚗 Order a ride
 
-❓ Use pre-built queries or custom queries, even third-party queries from other dapps.
+🍔 Order food for delivery and offset the cost of gas
 
-🔺🔻 Get in before the trend takes off using data analysis and notifications, then ride the wave down.
+🍴 Perfect your reservations by 
 
-🚩 Be the FIRST to get the latest and the greatest.
+🍜 Even access benefits from dining in, by referncing your transactions on the blockahin to boost network traffic.
 
 #### [An ECE Dapp](https://github.com/elicharlese)
